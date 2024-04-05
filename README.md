@@ -1,4 +1,4 @@
 Ola me chamo Tiago Silva
-Atualmente Cursando  Ciencia Da  Computação  pela Faculdade Estácio de Sá.
+Atualmente Cursando  Análise desenvolvimento em Sistema pela Faculdade Estácio de Sá.
 Estudante de desenvolvimento Front-End  
-Tecnologias HTML5,CSS3,JQUERY,JAVASCRIPT
+Linguagem: HTML5,CSS3,SASSCSS, REACT.JS,VUE.JS NODE.JS
