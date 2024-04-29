@@ -1,5 +1,4 @@
 Tiago Silva
-LinkedIn: Perfil do Tiago Silva no LinkedIn
 
 Resumo Profissional:
 Estudante de Tecnologia da Informação com experiência como Analista de Suporte Corporativo na Allrede Telecom e Age Telecom. Apaixonado por tecnologia e focado no desenvolvimento frontend, especializado em JavaScript, Sass/CSS e ReactJS.
